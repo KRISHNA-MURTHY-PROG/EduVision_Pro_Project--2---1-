@@ -1,0 +1,7 @@
+{
+    "sender_email": "your_sender@gmail.com",
+    "app_password": "your_app_password_here",
+    "recipient_email": "admin_recipient@gmail.com",
+    "subject": "EduVision Session Report",
+    "body": "Attached is the session report."
+}
